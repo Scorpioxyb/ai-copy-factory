@@ -1,0 +1,45 @@
+[
+    {
+        "platform": "xianyu",
+        "name": "AirPods Pro 2",
+        "category": "数码",
+        "condition": "95新",
+        "original_price": "1899",
+        "purchase_time": "2025年10月",
+        "accessories": "全套包装+充电线",
+        "extra": "换了索尼大耳，这个用不上了"
+    },
+    {
+        "platform": "xianyu",
+        "name": "小米手环8 Pro",
+        "category": "数码",
+        "condition": "9成新",
+        "original_price": "399",
+        "purchase_time": "2025年8月",
+        "accessories": "充电器+腕带",
+        "extra": "买了Apple Watch，这个闲置"
+    },
+    {
+        "platform": "xiaohongshu",
+        "topic": "大学生宿舍好物推荐",
+        "category": "生活好物",
+        "selling_points": "便宜、实用、提升幸福感",
+        "target_audience": "大学生、宿舍党",
+        "style": "种草"
+    },
+    {
+        "platform": "douyin",
+        "topic": "程序员的一天",
+        "video_type": "vlog",
+        "product": "无",
+        "goal": "涨粉",
+        "duration": "45秒"
+    },
+    {
+        "platform": "wechat",
+        "topic": "大学生如何用AI搞副业",
+        "domain": "科技/副业",
+        "target_reader": "大学生、职场新人",
+        "purpose": "干货分享，引流"
+    }
+]
